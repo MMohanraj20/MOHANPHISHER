@@ -37,10 +37,10 @@ https://github.com/MMohanraj20/MOHANRAJ.git
 
 ##### Clone this repository
 
- - ```git clone https://github.com/MMohanraj20/MOHANRAJ```
+ - ```https://github.com/MMohanraj20/MOHANPHISHER```
 
 ##### Enter the directory
- - ```cd MOHANRAJ```
+ - ```cd MOHANPHISHER```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
@@ -55,15 +55,15 @@ https://github.com/MMohanraj20/MOHANRAJ.git
 ```
 
 ### Pip
- - `pip3 install MOHANRAJ` [For Termux]
- - `sudo pip3 install MOHANRAJ --break-system-packages` [For Linux]
+ - `pip3 install MOHANPHISHER` [For Termux]
+ - `sudo pip3 install MOHANPHISHER --break-system-packages` [For Linux]
  - `MOHANRAJ`
 
 ### Docker
 
- - `sudo docker pull MMohanraj20/MOHANRAJ`
- - `sudo docker run --rm -it MMohanraj20/MOHANRAJ`
- - `sudo docker cp $(sudo docker ps | grep maxphisher | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
+ - `sudo docker pull MMohanraj20/MOHANPHISHER`
+ - `sudo docker run --rm -it MMohanraj20/MOHANPHISHER`
+ - `sudo docker cp $(sudo docker ps | grep MOHANPHISHER | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
 
 
 
