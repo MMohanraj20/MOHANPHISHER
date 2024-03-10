@@ -46,7 +46,7 @@ https://github.com/MMohanraj20/MOHANRAJ.git
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 MOHANRAJ.py```
+ - ```python3 MOHANPHISHER.py```
 
 #### Or, directly run
 ```
