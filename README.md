@@ -37,7 +37,7 @@ https://github.com/MMohanraj20/MOHANRAJ.git
 
 ##### Clone this repository
 
- - ```https://github.com/MMohanraj20/MOHANPHISHER```
+ - ```git clone https://github.com/MMohanraj20/MOHANPHISHER```
 
 ##### Enter the directory
  - ```cd MOHANPHISHER```
