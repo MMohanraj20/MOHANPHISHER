@@ -1065,14 +1065,14 @@ def saved():
 
 # Info about tool
 def about():
-    clear()
-    print(f"{red}{yellow}[{purple}ToolName{yellow}]      {cyan} : {yellow}[{green}\x4d\x4f\x48\x41\x4e\x52\x41\x4a{yellow}] ")
+     clear()
+    print(f"{red}{yellow}[{purple}ToolName{yellow}]      {cyan} : {yellow}[{green}\x4d\x61\x78\x50\x68\x69\x73\x68\x65\x72{yellow}] ")
     print(f"{red}{yellow}[{purple}Version{yellow}]       {cyan} : {yellow}[{green}{version}{yellow}] ")
-    print(f"{red}{yellow}[{purple}Author{yellow}]        {cyan} : {yellow}[{green}\x4d\x4f\x48\x41\x4e\x52\x41\x4a{yellow}] ")
-    print(f"{red}{yellow}[{purple}Github{yellow}]        {cyan} : {yellow}[{green}https://github.com/\x4d\x4d\x4f\x48\x41\x4e\x52\x41\x4a\x32\x30{purple}{yellow}] ")
-    print(f"{red}{yellow}[{purple}Messenger{yellow}]     {cyan} : {yellow}[{green}https://m.me/\x4d\x4d\x4f\x48\x41\x4e\x52\x41\x4a\x32\x30{{yellow}] ")
-    print(f"{red}{yellow}[{purple}Telegram {yellow}]     {cyan} : {yellow}[{green}https://t.me/\x4d\x4d\x4f\x48\x41\x4e\x52\x41\x4a\x32\x30{{yellow}] ")
-    print(f"{red}{yellow}[{purple}Email{yellow}]         {cyan} : {yellow}[{green}\x4d\x4f\x48\x41\x4e\x52\x41\x4a\x4d\x4f\x48\x41\x4e\x52\x41\x4a43221@gmail.com{yellow}] ")
+    print(f"{red}{yellow}[{purple}Author{yellow}]        {cyan} : {yellow}[{green}\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{yellow}] ")
+    print(f"{red}{yellow}[{purple}Github{yellow}]        {cyan} : {yellow}[{green}https://github.com/\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{purple}{yellow}] ")
+    print(f"{red}{yellow}[{purple}Messenger{yellow}]     {cyan} : {yellow}[{green}https://m.me/\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{yellow}] ")
+    print(f"{red}{yellow}[{purple}Telegram {yellow}]     {cyan} : {yellow}[{green}https://t.me/\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{yellow}] ")
+    print(f"{red}{yellow}[{purple}Email{yellow}]         {cyan} : {yellow}[{green}\x6b\x61\x73\x72\x6f\x75\x64\x72\x61krd@gmail.com{yellow}] ")
     print(f"\n{green}[{white}0{green}]{yellow} Exit                     {green}[{white}x{green}]{yellow} Main Menu       \n")
     inp = input(f"\n{ask}Choose your option: {green}")
     if inp == "0":
